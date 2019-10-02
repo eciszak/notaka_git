@@ -3,3 +3,6 @@ Podstawowe funkcje w git
 	git init
 2.Pobieranie repozytorium
 	git clone
+3.Konfiguracja nazwy użytkownika oraz adresu e-mail
+	git config --global user.name "Ewa Ciszak"
+	git config --global user.email ewa_damps@hotmail.com
