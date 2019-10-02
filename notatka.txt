@@ -1,3 +1,5 @@
 Podstawowe funkcje w git
 1. Tworzenie nowego repozytorium
 	git init
+2.Pobieranie repozytorium
+	git clone
