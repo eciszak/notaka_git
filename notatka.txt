@@ -13,3 +13,5 @@ Podstawowe funkcje w git
 	git add nazwa_pliku (dodany zostanie tylko wybrany plik)
 6. Zatwierdzenie zmain
 	git commit -m "Commit massage"
+7. Wysyłąnie zmain do zdalnego repozytorium
+	git push origin master
