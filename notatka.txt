@@ -21,3 +21,5 @@ Podstawowe funkcje w git
 	git checkout master
 10. Usunięcie galezi
 	git branch -d nazwa
+11. Zaktualizowanie lokalnego repozytorium do ostatniego commita
+	git pull
