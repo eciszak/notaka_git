@@ -23,3 +23,5 @@ Podstawowe funkcje w git
 	git branch -d nazwa
 11. Zaktualizowanie lokalnego repozytorium do ostatniego commita
 	git pull
+12. Scalenie innej galezi z galezia aktywna (np. master)
+	git merge <branch>
