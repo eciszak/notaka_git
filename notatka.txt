@@ -31,3 +31,5 @@ Podstawowe funkcje w git
 	git log
 15. Sprawdzenie commitow konkretnego autora
 	git log --author=ewa
+16. Sprawdzenie plikow ktore zostaly zmienione
+	git log --name-status
