@@ -35,3 +35,7 @@ Podstawowe funkcje w git
 	git log --name-status
 17. Wycofanie lokalnie zmian
 	git checkout -- <filename>
+18. Pomocne
+	gitk (wbudowane GUI dla git)
+	git --help
+	git status
