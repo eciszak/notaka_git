@@ -6,3 +6,5 @@ Podstawowe funkcje w git
 3.Konfiguracja nazwy użytkownika oraz adresu e-mail
 	git config --global user.name "Ewa Ciszak"
 	git config --global user.email ewa_damps@hotmail.com
+4.Ustawienie edytora tekstu
+	git confing core.editor notepad
