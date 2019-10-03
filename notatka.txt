@@ -17,3 +17,5 @@ Podstawowe funkcje w git
 	git push origin master
 8. Tworzenie nowej galezi i przelaczanie sie na nia
 	git checkout -b nazwa
+9. Przelaczanie sie z powrotem na master
+	git checkout master
