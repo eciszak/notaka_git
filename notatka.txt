@@ -11,3 +11,5 @@ Podstawowe funkcje w git
 5.Funkacja dodania pliku do commita
 	git add. (dodane zostaną wszystkie pliki w jakich zostało cokolwiek zmienione)
 	git add nazwa_pliku (dodany zostanie tylko wybrany plik)
+6. Zatwierdzenie zmain
+	git commit -m "Commit massage"
