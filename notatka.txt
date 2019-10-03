@@ -19,3 +19,5 @@ Podstawowe funkcje w git
 	git checkout -b nazwa
 9. Przelaczanie sie z powrotem na master
 	git checkout master
+10. Usunięcie galezi
+	git branch -d nazwa
