@@ -27,3 +27,5 @@ Podstawowe funkcje w git
 	git merge <branch>
 13. Sprawdzenie zmian przed scaleniem
 	git diff <source_branch> <target_branch>
+14. Przegladanie histori repozytorium
+	git log
