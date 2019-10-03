@@ -29,3 +29,5 @@ Podstawowe funkcje w git
 	git diff <source_branch> <target_branch>
 14. Przegladanie histori repozytorium
 	git log
+15. Sprawdzenie commitow konkretnego autora
+	git log --author=ewa
