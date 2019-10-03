@@ -33,3 +33,5 @@ Podstawowe funkcje w git
 	git log --author=ewa
 16. Sprawdzenie plikow ktore zostaly zmienione
 	git log --name-status
+17. Wycofanie lokalnie zmian
+	git checkout -- <filename>
