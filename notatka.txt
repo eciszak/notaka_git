@@ -25,3 +25,5 @@ Podstawowe funkcje w git
 	git pull
 12. Scalenie innej galezi z galezia aktywna (np. master)
 	git merge <branch>
+13. Sprawdzenie zmian przed scaleniem
+	git diff <source_branch> <target_branch>
