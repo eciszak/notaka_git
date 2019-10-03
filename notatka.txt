@@ -8,3 +8,6 @@ Podstawowe funkcje w git
 	git config --global user.email ewa_damps@hotmail.com
 4.Ustawienie edytora tekstu
 	git confing core.editor notepad
+5.Funkacja dodania pliku do commita
+	git add. (dodane zostaną wszystkie pliki w jakich zostało cokolwiek zmienione)
+	git add nazwa_pliku (dodany zostanie tylko wybrany plik)
